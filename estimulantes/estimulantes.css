@@ -109,7 +109,7 @@ main .productShow .productSection {
   margin-top: 20px;
   border: white solid 1px;
   padding: 20px 20px;
-  height: 70px;
+  min-height: 70px;
   border-radius: 10px;
   font-size: 3rem;
   background-color: #fae134;

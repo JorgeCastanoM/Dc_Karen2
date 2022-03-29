@@ -95,6 +95,9 @@ header .nav-menu-item {
 
 main .productShow{
   background-image: url(../Images/Backg_products.jpg);
+  background-repeat: repeat;
+  background-repeat: repeat;
+  border: 1px solid black;
   width: 100%;
   min-height: 100vh;
   margin-top: 80px;
